@@ -1,9 +1,6 @@
 import pygame
 import random
-from os import path
-
-img_dir = path.join(path.dirname(__file__), 'png')
-snd_dir = path.join(path.dirname(__file__), 'snd')
+from os import pat
 
 WIDTH = 480
 HEIGHT = 600
