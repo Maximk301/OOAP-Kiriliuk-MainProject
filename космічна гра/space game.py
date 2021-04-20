@@ -3,7 +3,7 @@ import random
 from os import path
 
 img_dir = path.join(path.dirname(__file__), 'png')
-snd_dir = path.join(path.dirname(__file__), 'snd')
+snd_dir = path.join(path.dirname(__file__), 'snd'
 
 WIDTH = 480
 HEIGHT = 600
