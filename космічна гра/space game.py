@@ -2,6 +2,9 @@ import pygame
 import random
 from os import path
 #Змінено з IDE 
+#Змінено з браузера
+#Крнфлікт вирішено 23.04
+
 img_dir = path.join(path.dirname(__file__), 'img')
 snd_dir = path.join(path.dirname(__file__), 'snd')
 
