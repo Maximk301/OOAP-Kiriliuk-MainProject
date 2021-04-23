@@ -1,7 +1,7 @@
 import pygame
 import random
 from os import path
-
+#Змінено з IDE 
 img_dir = path.join(path.dirname(__file__), 'img')
 snd_dir = path.join(path.dirname(__file__), 'snd')
 
